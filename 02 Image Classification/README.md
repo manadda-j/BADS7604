@@ -1,1 +1,11 @@
-
+Image Dataset - 10 Classes of Thai Dessert
+  1. Banana In Coconut Milk - Kluay Buat Chi (กล้วยบวชชี)
+  2. Deep-Fried Rice Flour  - Fak Bua (ฝักบัว)
+  3. Durian Sticky Rice     - Khao Niao Tu-rean (ข้าวเหนียวทุเรียน)
+  4. Pandanus Pudding in Coconut Cream  - Piak Poon Krati Sod (เปียกปูนกระทิสด)
+  5. Rice Balls in Sweet Coconut Milk   - Bua Loy (บัวลอย)
+  6. Sweet Sticky Rice with Thai Custard - Khao Niao Sangkhaya (ข้าวเหนียวสังขยา)
+  7. Tapioca Balls with Pork Filling    - Saku Sai Moo (สาคูไส้หมู)
+  8. Thai Crispy Pancake topped with Golden Threads -  Khanom Buang Foi Thong (ขนมเบื้องฝอยทอง)
+  9. Thai Style Fried Savory Dumplings with Fish Filling  - Pan Sib (ปั้นสิบ, ปั้นขลิบ)
+  10. Toddy Palm Cake   - Khanom Tan (ขนมตาล)
