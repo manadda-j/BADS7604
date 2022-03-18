@@ -1,4 +1,4 @@
-Image Dataset - 10 Classes of Thai Dessert
+Dataset - 10 Classes of Thai Dessert
   1. Banana In Coconut Milk - Kluay Buat Chi (กล้วยบวชชี)
   2. Deep-Fried Rice Flour  - Fak Bua (ฝักบัว)
   3. Durian Sticky Rice     - Khao Niao Tu-rean (ข้าวเหนียวทุเรียน)
